@@ -6,6 +6,11 @@
 - 🎯 Seeking **internship** or **full-time roles** in **Software Development**.
 - 📱 Developed apps like **IEEE App** and **SpendWiz** using **Kotlin** and **Firebase**.
 - 🎓 **CS student** at **JNN College**, **GPA: 9.13**, graduating in 2025.
+- 
+| 🎖 **Google Play Listing Certificate** | 🎖 **More Badges** |
+|--------------------------------|--------------------|
+| <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> | <img src="https://badge-link-2.com" width="150"> |
+
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-k-s-039689276/)
@@ -39,5 +44,7 @@
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=21AbhishekKS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
