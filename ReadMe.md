@@ -9,7 +9,7 @@
 - 
 | 🎖 **Google Play Listing Certificate** | 🎖 **More Badges** |
 |--------------------------------|--------------------|
-| <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> | <img src="https://badge-link-2.com" width="150"> |
+| <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> |  |
 
 
 ## 🌐 Socials
