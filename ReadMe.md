@@ -6,7 +6,7 @@
 - 🎯 Seeking **internship** or **full-time roles** in **Software Development**.
 - 📱 Developed apps like **IEEE App** and **SpendWiz** using **Kotlin** and **Firebase**.
 - 🎓 **CS student** at **JNN College**, **GPA: 9.13**, graduating in 2025.
-- 
+  
 | 🎖 **Google Play Listing Certificate** | 🎖 **More Badges** |
 |--------------------------------|--------------------|
 | <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> |  |
