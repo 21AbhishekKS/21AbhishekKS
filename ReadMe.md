@@ -7,10 +7,9 @@
 - 📱 Developed apps like **IEEE App** and **SpendWiz** using **Kotlin** and **Firebase**.
 - 🎓 **CS student** at **JNN College**, **GPA: 9.13**.
   
-| 🎖 Google Play Listing  | 🎖 OCI |
-|--------------------------------|--------------------|
-| <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> |  <img src= "https://github.com/user-attachments/assets/941add38-9878-47d3-b1dc-c67ecdfa5504 " width="150">
-
+| 🎖 Google Play Listing  | 🎖 OCI | 🎖 Java |
+|--------------------------------|--------------------|--------------------|
+| <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> |  <img src= "https://github.com/user-attachments/assets/941add38-9878-47d3-b1dc-c67ecdfa5504 " width="150"> | <img src="https://github.com/user-attachments/assets/99d8aadc-ad37-43c7-aa6f-3a7b14d1c0ab" width="150"> 
 
 
 ## 🌐 Socials
