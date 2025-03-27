@@ -9,7 +9,7 @@
   
 | 🎖 Google Play Listing  | 🎖 OCI | 🎖 Java |🎖 SQL |
 |--------------------------------|--------------------|--------------------|--------------------|
-| <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> |  <img src= "https://github.com/user-attachments/assets/941add38-9878-47d3-b1dc-c67ecdfa5504 " width="150"> | <img src="https://github.com/user-attachments/assets/99d8aadc-ad37-43c7-aa6f-3a7b14d1c0ab" width="150"> | <img src="https://github.com/user-attachments/assets/99d8aadc-ad37-43c7-aa6f-3a7b14d1c0ab" width="150"> 
+| <img src="https://github.com/user-attachments/assets/c44cea00-b49b-4623-9bdd-49144f30b0b3" width="150"> |  <img src= "https://github.com/user-attachments/assets/941add38-9878-47d3-b1dc-c67ecdfa5504 " width="150"> | <img src="https://github.com/user-attachments/assets/99d8aadc-ad37-43c7-aa6f-3a7b14d1c0ab" width="150"> | <img src="https://github.com/user-attachments/assets/d089d204-b82e-4782-9635-a947dbc3e97d" width="150"> 
 
 
 ## 🌐 Socials
