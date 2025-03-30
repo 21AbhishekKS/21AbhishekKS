@@ -1,6 +1,5 @@
 # 💫 About Me
 
-## 👨‍💻 About Me
 - 🚀 **Software Engineer** skilled in **Java**, **Kotlin**, and **Spring Boot**.
 - 💼 Experience with **Unriddle Technologies** and **VanTech Med**.
 - 🎯 Seeking **internship** or **full-time roles** in **Software Development**.
