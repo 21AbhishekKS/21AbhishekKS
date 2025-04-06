@@ -2,7 +2,7 @@
 
 - 🚀 **Software Engineer** skilled in **Java**, **Kotlin**, and **Spring Boot**.
 - 💼 Experience with **Unriddle Technologies** and **VanTech Med**.
-- 🎯 Seeking **internship** or **full-time roles** in **Software Development**.
+- 🎯 Seeking  **full-time roles** in **Software Development**.
 - 📱 Developed apps like **IEEE App** and **SpendWiz** using **Kotlin** and **Firebase**.
 - 🎓 **CS student** at **JNN College**, **GPA: 9.15**
   
